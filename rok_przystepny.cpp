@@ -6,9 +6,9 @@ int main()
 {
     /*
 
-    Napisz program w którym u¿ytkownik poda liczbê naturaln¹,
-    a program odpowie czy podany rok jest przestêpny (rok jest przestêpny jeœli jest podzielny przez 4,
-    ale jednoczeœnie nie jest podzielny przez 100 lub kiedy jest podzielny przez 400).
+    Napisz program w ktÃ³rym uÅ¼ytkownik poda liczbÄ™ naturalnÄ…,
+    a program odpowie czy podany rok jest przestÄ™pny (rok jest przestÄ™pny jeÅ›li jest podzielny przez 4,
+    ale jednoczeÅ›nie nie jest podzielny przez 100 lub kiedy jest podzielny przez 400).
     */
 
     int rok;
