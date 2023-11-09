@@ -5,7 +5,7 @@ using namespace std;
 int main()
 {
     /*
-    Zaprojektuj algorytm rozwiπzywania uk≥adu rÛwnaÒ liniowych postaci
+    Zaprojektuj algorytm rozwi≈°zywania uk≈Çadu r√≥wna≈Ñ liniowych postaci
     a1 x + b1 y = c1
     a2 x + b2 y = c2
     */
