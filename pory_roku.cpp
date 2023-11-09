@@ -4,10 +4,10 @@ using namespace std;
 
 int main()
 {
-/* Napisz program, który pyta u¿ytkownika o liczbê ca³kowit¹. Nastêpnie jeœli jest ona numerem miesi¹ca
-program wypisuje porê roku, w której jest dany miesi¹c (przyjmujemy, ¿e grudzieñ, styczeñ i luty to zima,
-nastêpnie ka¿da pora roku to kolejne 3 miesi¹ce).Jeœli liczba ma inn¹ wartoœæ ni¿ od 1 do 12 to program ma wypisaæ informacje,
- ¿e to nie jest numer miesi¹ca. Mo¿na u¿yæ instrukcji switch, case.*/
+/* Napisz program, ktÃ³ry pyta uÅ¼ytkownika o liczbÄ™ caÅ‚kowitÄ…. NastÄ™pnie jeÅ›li jest ona numerem miesiÄ…ca
+program wypisuje porÄ™ roku, w ktÃ³rej jest dany miesiÄ…c (przyjmujemy, Å¼e grudzieÅ„, styczeÅ„ i luty to zima,
+nastÄ™pnie kaÅ¼da pora roku to kolejne 3 miesiÄ…ce).JeÅ›li liczba ma innÄ… wartoÅ›Ä‡ niÅ¼ od 1 do 12 to program ma wypisaÄ‡ informacje,
+ Å¼e to nie jest numer miesiÄ…ca. MoÅ¼na uÅ¼yÄ‡ instrukcji switch, case.*/
 
 
     int nr_miesiaca;
