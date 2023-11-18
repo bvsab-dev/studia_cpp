@@ -1,7 +1,7 @@
 #include <iostream>
 
 using namespace std;
-//silnia zostanie policzona maksymalnie do !65 powyøej 65 wystepuje b≥πd przepe≥nienia stackoverflow silnia wychodzi poza zakres
+//silnia zostanie policzona maksymalnie do !65 powy≈ºej 65 wystepuje b≈Ç≈°d przepe≈Çnienia stackoverflow silnia wychodzi poza zakres
 
 unsigned long long silnia(int n) {
 
