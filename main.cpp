@@ -1,23 +1,22 @@
 #include <iostream>
 
 using namespace std;
+//silnia zostanie policzona maksymalnie do !65 powy¿ej 65 wystepuje b³¹d przepe³nienia stackoverflow silnia wychodzi poza zakres
 
+unsigned long long silnia(int n) {
 
-unsigned long long fib(int n) {
-
- if(n == 1 || n == 2) return 1;
-  else return fib(n-1)+fib(n-2);
-
+ if(n == 0 || n == 1) return 1;
+ else return n*silnia(n-1);
 }
 
-//ciag fibonnaciego zlota liczba rekurencyjnie
 int main()
 {
     int n;
-    while(true) {
-    cout<<"Podaj wyraz ciagu a ja go wypisze: ";
+
+    cout<<"Podaj liczbe a ja wylicze silnie: ";
     cin>>n;
-    cout<<fib(n)<<endl;
- }
+    cout<<endl;
+    cout<<silnia(n);
+
     return 0;
 }
