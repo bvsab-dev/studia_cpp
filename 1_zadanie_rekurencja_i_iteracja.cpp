@@ -10,9 +10,9 @@ int rekurencja(int n) {
 }
 
 int iteracja(int n) {
-    int a = 2;//wyraz 0
-    int b = 0;//wyraz 1
-    int c = 1;//wyraz 2
+    int a = 2;//wyraz 0 n-3
+    int b = 0;//wyraz 1 n-2
+    int c = 1;//wyraz 2 n-1
     int wynik = 0;
     if(n==0) return 2;
     if(n==1) return 0;
